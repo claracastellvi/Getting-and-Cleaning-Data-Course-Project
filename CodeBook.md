@@ -6,8 +6,11 @@ These variables identify the unique subject/activity pair the variables relate t
 **Subject**: the integer subject ID.
 
 **Activity**: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing and Laying.
+
 ### THE DATA
+
 The dataset includes the following files:
+
 1. Readme.txt
 2. features_info.txt
 3. features.txt
