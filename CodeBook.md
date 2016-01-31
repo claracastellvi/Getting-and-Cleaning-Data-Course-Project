@@ -3,6 +3,7 @@
 ### SUBJECT AND ACTIVITY
 
 These variables identify the unique subject/activity pair the variables relate to:
+
 **Subject**: the integer subject ID.
 
 **Activity**: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing and Laying.
